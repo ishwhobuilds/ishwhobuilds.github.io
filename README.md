@@ -1,37 +1,45 @@
-# Portfolio: Ishwari Wakchaure 🚀
+# 🚀 Professional AI/ML Engineer Portfolio
 
-This is a professional, high-performance portfolio website built with a premium dark theme.
+A premium, high-performance portfolio template designed for AI/ML Engineers and Data Scientists. Constructed with a focus on professional aesthetics, deep-technical clarity, and seamless deployment.
 
-## 🛠️ Deployment Instructions
+![Portfolio Preview](https://img.shields.io/badge/Aesthetics-Black_&_Blue-blue)
+![Tech Stack](https://img.shields.io/badge/Stack-HTML5%20%7C%20CSS3%20%7C%20JS-3b82f6)
+![License](https://img.shields.io/badge/License-MIT-green)
 
-To get this live on `https://ishwhobuilds.github.io/`, follow these steps:
+## ✨ Overview
 
-1.  **Create a Repository**: log in to GitHub and create a new repository named `ishwhobuilds.github.io` (must match your username exactly).
-2.  **Initialize Git**:
-    ```bash
-    git init
-    git add .
-    git commit -m "Initialize professional portfolio"
-    ```
-3.  **Push to GitHub**:
-    ```bash
-    git remote add origin https://github.com/ishwhobuilds/ishwhobuilds.github.io.git
-    git branch -M main
-    git push -u origin main
-    ```
-4.  **Wait for Deployment**: Your site will be live at `https://ishwhobuilds.github.io/` within a few minutes.
+This repository contains the source code for my professional portfolio. It is designed to bridge the gap between complex research (LLMs, Agentic Systems) and production-ready implementation, showcasing expertise in:
+- **Generative AI & LLMs** (Fine-tuning, RAG, Agentic Workflows)
+- **Model Optimization** (PEFT, LoRA/QLoRA)
+- **High-Performance Infrastructure** (AWS, GCP, NVIDIA A100/TPU clusters)
 
-## 📁 Structure
+## 🛠️ Tech Stack
 
-- `index.html`: Main portfolio structure.
-- `css/style.css`: Premium dark mode styling (Black & Blue).
-- `js/main.js`: Smooth interactions and animations.
-- `Ishwari_Wakchaure_AI_Resume.pdf`: Your current resume for download.
+- **Structure**: Semantic HTML5
+- **Styling**: Vanilla CSS3 (Custom Design System)
+- **Interactions**: Lightweight Javascript (Smooth Scroll, IntersectionObserver)
+- **Icons**: Font Awesome 6.4
+- **Typography**: Inter & Outfit (Google Fonts)
 
-## ✨ Features
+## 📂 Project Highlights
 
-- **Professional Design**: Black background with sharp blue accents.
-- **Project-Centric**: Focused on your General AIML projects (Legal Audit, Cyber Sentinel, etc.).
-- **Responsive**: Fully optimized for mobile and desktop.
-- **SEO Ready**: Proper meta tags and heading hierarchy.
+The portfolio spotlights four core pillars of my work:
+1. **Python 3 Core Engine**: System design and automation.
+2. **Model Fine-tuning**: Hands-on optimization with PEFT.
+3. **Cyber Sentinel (MCP)**: AI-driven security automation.
+4. **Agentic RAG**: Multi-step reasoning and graph-based memory.
 
+## � Deployment
+
+This portfolio is optimized for **GitHub Pages**.
+
+1. **Fork/Clone** the repository.
+2. Change the content in `index.html` to match your profile.
+3. Deploy to `https://<username>.github.io/`.
+
+## 🛡️ License
+
+This project is open-source and available under the MIT License. Feel free to use it as a template for your own professional engineering portfolio.
+
+---
+Developed by [Ishwari Wakchaure](https://github.com/ishwhobuilds) | AI/ML Engineer
