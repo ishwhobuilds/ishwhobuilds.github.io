@@ -35,4 +35,3 @@ To get this live on `https://ishwhobuilds.github.io/`, follow these steps:
 - **Responsive**: Fully optimized for mobile and desktop.
 - **SEO Ready**: Proper meta tags and heading hierarchy.
 
-Developed by **Antigravity** for Ishwari Wakchaure.
